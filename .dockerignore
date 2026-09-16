@@ -1,0 +1,11 @@
+.git
+.gitignore
+.venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+cypress/
+node_modules/
+*.sqlite3
